@@ -1,0 +1,13 @@
+1.PROJECT NAME: Recon Tool
+2.PURPOSE: Collect basic information about a target.
+3.TOOL USED: Python
+	     Socket
+	     Nmap
+	     Kali Linux
+4.CONCEPTS LEARNED: 
+                   -IP address
+                   -Hostname
+                   -Ports
+                   -Services
+                   -Subprocess
+                   
