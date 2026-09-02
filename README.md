@@ -53,3 +53,17 @@ scanning common ports...
 
 ```bash
 nmap --version
+
+📚 What I Learned
+#Basic network reconnaissance
+#Port scanning
+#Service/version detection
+#Using Nmap from Python
+#Running cybersecurity tools in Kali Linux
+#Using Git and GitHub for project management
+
+⚠️ Ethical Use
+
+This project is created for educational purposes only.
+
+Only scan systems, networks, or devices that you own or have explicit permission to test.
