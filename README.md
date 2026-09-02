@@ -38,6 +38,8 @@ The objective of this project is to understand the basics of network reconnaissa
 for example=>
 Enter target IP or hostname:
 192.168.1.10
+
+
 starting network reconnaissance..........................
 ......................................................
 Target:192.168.1.10
