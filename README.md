@@ -28,6 +28,8 @@ The objective of this project is to understand the basics of network reconnaissa
   if nmap is not installed:
   sudo apt update
   sudo apt install nmap
+
+  
 2. Run the python script:
    python3 recon.py
   
