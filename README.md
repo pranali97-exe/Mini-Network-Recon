@@ -42,7 +42,6 @@ Enter target IP or hostname:
 .......................starting network reconnaissance..........................
 
 Target:192.168.1.10
-
 scanning common ports...
 
    Nmap scan results will be displayed here.
@@ -52,6 +51,8 @@ scanning common ports...
    
 
 ##📚 What I Learned
+
+
 #Basic network reconnaissance
 #Port scanning
 #Service/version detection
